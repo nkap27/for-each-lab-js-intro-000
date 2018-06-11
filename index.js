@@ -5,7 +5,7 @@ function iterativeLog(array){
 }
 
 function iterate(array, forEach){
-  array.forEach() => {
+  array.forEach(element, index, array) => {
     forEach();
   };
   return array;
