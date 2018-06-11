@@ -3,7 +3,7 @@ function iterativeLog(array){
     console.log(`${index}: ${element}`);
   });
 
-function iterate(array){
-  array.forEach(forEach);
-  return array;
-}
+// function iterate(array){
+//   array.forEach(forEach);
+//   return array;
+// }
