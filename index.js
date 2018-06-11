@@ -4,7 +4,7 @@ function iterativeLog(array){
   });
 }
 
-// function iterate(array){
-//   array.forEach(forEach);
-//   return array;
-// }
+function iterate(array){
+  array.forEach(forEach);
+  return array;
+}
