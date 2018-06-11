@@ -4,12 +4,12 @@ function iterativeLog(array){
   });
 }
 
-function iterate(array, forEach){
-  array.forEach(element, index, array) => {
-    forEach();
-  };
-  return array;
-}
+// function iterate(array, forEach){
+//   array.forEach(element, index, array) => {
+//     forEach();
+//   };
+//   return array;
+// }
 
 function doToArray(array, callback) {
   array.forEach(callback);
